@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.4",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.8.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-less": "^3.3.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
